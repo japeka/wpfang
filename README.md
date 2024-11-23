@@ -1,6 +1,6 @@
 
 # Ang18 App
-## Navigate to testApp Angular folder
+## Navigate to ang18
 ## npm i
 ## npm start
 
